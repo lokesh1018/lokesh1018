@@ -3,7 +3,7 @@
 - 👀 I’m interested in **photography, software development, and IVR systems**.
 - 🌱 I’m currently learning **advanced Node.js, cloud computing, and video editing techniques**.
 - 💞️ I’m looking to collaborate on **open-source projects, photography workflows, and innovative IVR solutions**.
-- 📫 How to reach me: **[Your Email](mailto:lokeshvelan1018@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/lokesh1018/)**.
+- 📫 How to reach me: **[Email](mailto:lokeshvelan1018@gmail.com)** or connect with me on **[LinkedIn](https://www.linkedin.com/in/lokesh1018/)**.
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: **I’m both a tech enthusiast and a passionate photographer!**
 
