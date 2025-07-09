@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @lokesh1018
+# 👋 Hi, I’m Lokesh
 
 - 👀 I’m interested in **photography and software development**.
 - 🌱 I’m currently learning **advanced Node.js, ReactJS and cloud computing**.
