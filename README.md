@@ -24,11 +24,6 @@ Full Stack Developer based in Chennai, India — building things with React, Nod
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lokesh1018&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh1018&layout=compact&hide_border=true)
-
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lokeshvelan1018@gmail.com)
